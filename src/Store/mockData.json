@@ -1,0 +1,80 @@
+[
+    {
+      "id": 1,
+      "customerName": "Sanjay",
+      "assignee": "Baskar",
+      "model": "Series IV",
+      "floors": "G+1"
+    },
+    {
+      "id": 2,
+      "customerName": "Anil",
+      "assignee": "Rahul",
+      "model": "Series IV Max",
+      "floors": "G+2"
+    },
+    {
+      "id": 3,
+      "customerName": "Ravi",
+      "assignee": "Vinay",
+      "model": "Series III",
+      "floors": "G+3"
+    },
+    {
+      "id": 4,
+      "customerName": "Priya",
+      "assignee": "Neeraj",
+      "model": "Series IV Max",
+      "floors": "G+2"
+    },
+    {
+      "id": 5,
+      "customerName": "Vikram",
+      "assignee": "Rohan",
+      "model": "Series IV",
+      "floors": "G+1"
+    },
+    {
+      "id": 6,
+      "customerName": "Ramesh",
+      "assignee": "Ankit",
+      "model": "Series III",
+      "floors": "G+3"
+    },
+    {
+      "id": 7,
+      "customerName": "Deepa",
+      "assignee": "Mahesh",
+      "model": "Series IV Max",
+      "floors": "G+2"
+    },
+    {
+      "id": 8,
+      "customerName": "Manoj",
+      "assignee": "Karthik",
+      "model": "Series IV",
+      "floors": "G+1"
+    },
+    {
+      "id": 9,
+      "customerName": "Anjali",
+      "assignee": "Sandeep",
+      "model": "Series III",
+      "floors": "G+3"
+    },
+    {
+      "id": 10,
+      "customerName": "Rohit",
+      "assignee": "Amit",
+      "model": "Series IV Max",
+      "floors": "G+2"
+    },
+    {
+      "id": 11,
+      "customerName": "Shweta",
+      "assignee": "Prakash",
+      "model": "Series IV",
+      "floors": "G+1"
+    }
+  ]
+  
